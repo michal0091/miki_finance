@@ -1,0 +1,76 @@
+etf_name,isin,market,reference,region,esg_val,expenses_ratio
+ISHARES EURO STX50,IE0008471009,Euronext Amsterdam & Tradegate,Euro STOXX 50,Europa,AA,0.1
+ISHARES CHINA 25,IE00B02KXK85,Euronext Amsterdam & Tradegate,FTSE China 25,China,A,0.74
+ISHARES FTSE 100,IE0005042456,Euronext Amsterdam & Tradegate,FTSE 100-index,United Kingdom,AA,0.07
+ISHARES ESTOXX DIV,IE00B0M62S72,Euronext Amsterdam & Tradegate,STOXX Europe Select Dividend 30,Europa,AA,0.4
+ISHARES AEX,IE00B0M62Y33,Euronext Amsterdam & Tradegate,AEX Total Net Return,Europa,AA,0.3
+ISHARES ASIA PACIFIC,IE00B14X4T88,Euronext Amsterdam & Tradegate,Dow Jones Asia/Pacific Select Dividend 30 Index,Asia,A,0.59
+ISHARES PROP GLO,IE00B1FZS350,Euronext Amsterdam & Tradegate,FTSE EPRA/NAREIT Global Dividend + Index,Mundial,A,0.59
+ISHARES MSCI EUR A,IE00B4K48X80,Euronext Amsterdam & Tradegate,MSCI Europe Index,Europa,AA,0.12
+ISHARES MSCI WOR A,IE00B4L5Y983,Euronext Amsterdam & Tradegate,MSCI World EUR,Mundial,A,0.2
+ISHARES MSCI EM A,IE00B4L5YC18,Euronext Amsterdam & Tradegate,MSCI Emerging Markets Index,Mercados emergentes,BBB,0.18
+VanEck AEX,NL0009272749,Euronext Amsterdam & Tradegate,AEX TR-index,Europa,AA,0.3
+LYXOR ETF CAC 40,FR0007052782,Euronext Paris,CAC 40 Total Return Index,Europa,AA,0.25
+Invesco EQQQ NASDAQ-100,IE0032077012,Euronext Paris & Tradegate,Nasdaq-100,Estados Unidos,A,0.3
+LYXOR ETF DAX,LU0252633754,Euronext Paris & Tradegate,DAX Index,Europa,AA,0.15
+iShares STOXX Global Select Dividend 100 (DE),DE000A0F5UH1,XETRA & Tradegate,STOXX Global Select Dividend 100 Index,Mundial,A,0.46
+iShares Diversified Commodity Swap (DE),DE000A0H0728,"XETRA, Euronext Amsterdam & Tradegate",Bloomberg Commodity Index Total Return,Mundial,-,0.46
+Lyxor New Energy UCITS ETF Dist,FR0010524777,XETRA & Tradegate,World Alternative Energy Total Return Index,Mundial,A,0.6
+SPDR S&P US Dividend Aristocrats ETF,IE00B6YX5D40,XETRA & Tradegate,S&P High Yield Dividend Aristocrats Index,Estados Unidos,A,0.35
+SPDR S&P Euro Dividend Aristocrats ETF,IE00B5M1WJ87,XETRA & Tradegate,S&P Euro High Yield Dividend Aristocrats Index,Europa,AA,0.3
+VanEck Global Real Estate UCITS ETF,NL0009690239,Euronext Amsterdam & Tradegate,Global Property Research (GPR) Global 100 Index,Mundial,A,0.25
+HSBC MSCI WORLD,IE00B4X9L533,Euronext Paris & Tradegate,MSCI World USD,Mundial,A,0.15
+HSBC MSCI CHINA,IE00B44T3H88,Euronext Paris & Tradegate,MSCI China Net,China,BBB,0.28
+VANECK SUST WORLD ETF,NL0010408704,Euronext Amsterdam & Tradegate,Solactive Sustainable World Equity Index GTR,Mundial,AA,0.2
+iShares Core S&P 500 UCITS ETF USD (Acc),IE00B5BMR087,XETRA & Tradegate,S&P 500,Estados Unidos,A,0.07
+SPDR S&P Gbl Div Aristocrats UCITS ETF,IE00B9CQXS71,XETRA & Tradegate,S&P Global Dividend Aristocrats Quality Income Index,Mundial,A,0.45
+VANGUARD FTSE AW,IE00B3RBWM25,Euronext Amsterdam & Tradegate,FTSE All World TR USD,Mundial,A,0.22
+VANGUARD FTSE EM,IE00B3VVMM84,Euronext Amsterdam & Tradegate,FTSE Emerging Index,Mercados emergentes,BBB,0.22
+VANGUARD FTSE HDY,IE00B8GKDB10,Euronext Amsterdam & Tradegate,FTSE All-World High Dividend Yield Index,Mundial,A,0.29
+VANGUARD FTSE EUR,IE00B945VV12,Euronext Amsterdam & Tradegate,FTSE Developed Europe Index,Europa,AA,0.1
+VANGUARD S&P500,IE00B3XXRP09,Euronext Amsterdam & Tradegate,S&P 500,Estados Unidos,A,0.07
+LYXOR ETF IBEX 35,FR0010251744,Bolsa de Madrid,IBEX 35,Europa,AA,0.3
+ISHARES EMIM,IE00BKM4GZ66,Euronext Amsterdam & Tradegate,MSCI Emerging Markets Investable Market Index (IMI),Mercados emergentes,BBB,0.18
+SPDR Russell 2000 US Small Cap UCITS ETF,IE00BJ38QD84,XETRA & Tradegate,Russell 2000 Index,Estados Unidos,BBB,0.3
+iShares NASDAQ 100,IE00B53SZB19,Euronext Amsterdam & Tradegate,Nasdaq-100,Mundial,A,0.33
+iShares Treasury 20+,IE00BSKRJZ44,London Stock Exchange & Tradegate,ICE U.S. Treasury 20+ Years Bond Index,Mundial,A,0.07
+iShares Edge MSCI WrldMmtFactor UCITS ETF USD Acc,IE00BP3QZ825,XETRA & Tradegate,MSCI World Momentum Index (USD),Mundial,A,0.3
+LYXOR STOXX EUROPE 600 (DR) UCITS ETF,LU0908500753,Euronext Paris & Tradegate,STOXX Europe 600 (Net Return) EUR,Europa,AA,0.07
+iShares S&P 500 Inf Tech Sector UCITS ETF USD(Acc),IE00B3WJKG14,XETRA & Tradegate,S&P 500 Information Technology Index,Estados Unidos,AA,0.15
+VANGUARD USDTRBOND,IE00BZ163M45,Euronext Amsterdam & Tradegate,BBgBarc Glb Agg US Treas Fl Adj TR USD,Estados Unidos,A,0.07
+Xtrackers MSCI World Information Tech UCITS ETF 1C,IE00BM67HT60,XETRA & Tradegate,MSCI World Information Technology TRN Index,Mundial,AA,0.25
+SPDR MSCI W TECH,IE00BYTRRD19,Euronext Amsterdam,MSCI World Information Technology 35/20 Capped Index,Mundial,AA,0.3
+VANECK MRNGSTR DV ETF,NL0011683594,Euronext Amsterdam & Tradegate,Morningstar Developed Markets Large Cap Dividend Leaders Index,Mundial,AA,0.38
+iShares Global Water UCITS ETF USD (Dist),IE00B1TXK627,XETRA & Tradegate,S&P Global Water Index,Mundial,AA,0.65
+iShares Global Clean Energy UCITS ETF USD (Dist),IE00B1XNHC34,XETRA & Tradegate,S&P Global Clean Energy,Mundial,AA,0.65
+iShares Gold Producers UCITS ETF USD (Acc),IE00B6R52036,XETRA & Tradegate,S&P Commodity Producers Gold Index,Mundial,A,0.55
+iSharesOil&Gas Exploration&Prod UCITS ETF USD(Acc),IE00B6R51Z18,XETRA & Tradegate,S&P Commodity Producers Oil&Gas Exploartion&Production Index,Mundial,A,0.55
+iShares Automation & Robotics UCITS ETF USD (Acc),IE00BYZK4552,XETRA & Tradegate,iSTOXX FactSet Automation & Robotics Index,Mundial,A,0.4
+iShares Healthcare Innovation UCITS ETF USD (Acc),IE00BYZK4776,XETRA & Tradegate,iSTOXX FactSet Breakthrough Healthcare Index,Mundial,A,0.4
+VANECK GOLD MINERS UCITS ETF,IE00BQQP9F84,Tradegate,NYSE Arca Gold Miners NR USD,Mundial,A,0.53
+VANECK JUNIOR GOLD MINERS UCITS ETF,IE00BQQP9G91,Tradegate,MVIS Global Junior Gold Miners NR USD,Mundial,BBB,0.55
+ETF Cyber Security,IE00BYPLS672,Euronext Amsterdam & Tradegate,NASDAQ ISE Cyber Security UCITS NR USD,Mundial,A,0.74
+iShares Nasdaq US Biotechnology ETF USD Acc,IE00BYXG2H39,XETRA & Tradegate,Nasdaq Biotechnology Index(R) (USD),Mundial,A,0.35
+AMUNDI ETF CAC 40,LU1681046931,Euronext Paris & Tradegate,CAC 40,Europa,AA,0.25
+L&G BATTERY VALUE-CHAIN UCITS ETF,IE00BF0M2Z96,Euronext Amsterdam & Tradegate,Solactive Battery Value-Chain NR USD,Mundial,A,0.49
+iShares MSCI World Small Cap UCITS ETF USD Acc,IE00BF4RFH31,XETRA & Tradegate,MSCI World Small Cap Index,Mundial,A,0.35
+iShares MSCI India UCITS ETF USD Acc,IE00BZCQB185,XETRA & Tradegate,XETRA & Tradegate,MSCI India NR USD,India,BBB
+SPDR US TECH,IE00BWBXM948,Euronext Amsterdam & Tradegate,S&P Technology Select Sector Daily Capped 25/20 Index,Estados Unidos,AA,0.15
+iShares Digital Security UCITS ETF USD Acc,IE00BG0J4C88,XETRA & Tradegate,STOXX Global Digital Security Index,Mundial,A,0.4
+MULTI LY COMMO CRB,LU1829218749,Euronext Paris & Tradegate,Thomson Reuters/CoreCommodity CRB Total Return Index,Mundial,-,0.30
+iShares El Vehicles and DrivTech UCITS ETF USD Acc,IE00BGL86Z12,XETRA & Tradegate,STOXX Global Electric Vehicles & Driving Technology NET Index,Mundial,A,0.4
+iShares MSCI World SRI UCITS ETF EUR Acc,IE00BYX2JD69,XETRA & Tradegate,MSCI WORLD SRI Select Index,Mundial,AA,0.2
+KRANE CSI INTERNET,IE00BFXR7892,Euronext Amsterdam,CSI Overseas China Internet Index,Asia,-,0.75
+VanEck VideoGaming&eSports UCITS ETF USD A,IE00BYWQWR46,XETRA & Tradegate,MVIS Global Video Gaming and eSports Index,Mundial,A,0.55
+Vanguard FTSE All-World UCITS ETF - (USD) Accumulating,IE00BK5BQT80,XETRA & Tradegate,FTSE Developed All Cap ex Controversies/Non-Renewable Energy/Vice Products/Weapons Index Net EUR,Mundial,A,0.22
+WISDOMTREE CLOUD COMPU,IE00BJGWQN72,Tradegate,BVP Nasdaq Emerging Cloud NTR Index,Mundial,A,0.4
+RIZE SUSTAINABLE FOOD,IE00BLRPQH31,Euronext Amsterdam & Tradegate,Foxberry Tem Res Sus Future NR USD,Mundial,AA,0.45
+VANECK SEMICOND,IE00BMC38736,Tradegate,MVIS US Listed Semicond 10%Capped TR USD,Mundial,AA,0.35
+L&G Hydrogen Economy ETF USD Acc,IE00BMYDM794,Tradegate,Solactive Hydrogen Economy NR USD,Mundial,A,0.49
+iShares MSCI Global Semiconductors ETF Acc,IE000I8KRLL9,Euronext Amsterdam,MSCI ACWI IMI Semiconductors & Semiconductor Equipment Select ESG Screened Capped Index,Mundial,AA,0.35
+WisdomTree Cybersecurity ETF - USD Acc,IE00BLPK3577,Tradegate,WisdomTree Team8 Cybersecurity USD,Mundial,A,0.45
+VanEck Hydrogen Economy ETF A USD,IE00BMDH1538,Tradegate,MVIS Global Hydrogen Economy ESG NR USD,Mundial,A,0.55
+VanEck Crypto & Blockchain Innovators ETF,IE00BMDKNW35,Tradegate,MVIS Global Digital Assets Equity NR USD,Mundial,-,0.65
+Vanguard ESG Global All Cap ETF USD Acc,IE00BNG8L278,Euronext Amsterdam & Tradegate,FTSE Global All Cap Choice TR USD,Mundial,A,0.24
+Invesco Global Clean Energy ETF Acc,IE00BLRB0242,Tradegate,WilderHill NewEnergy GLB Innovate TR USD,Mundial,A,0.6
+iShares FTSE MIB ETF EUR Acc,IE00B53L4X51,Tradegate,FTSE MIB NR EUR,Europa,AA,0.33
